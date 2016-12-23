@@ -31,7 +31,8 @@ from the command line
 
 ## TODO
 
-- finalize [args] so to call a specific com port    ( ex: python serialMonitor.py -p COM61 )
+- finalize [args] so to call a specific com port    ( ex: 
+    > python serialMonitor.py -p COM61
 - add [args] so to call the right port based on the description ( ex:   -d ArduinoZero )
 
 ## Wishlist
